@@ -1,0 +1,11 @@
+.news-item{
+    width: 500px;
+    padding: 20px;
+    border:  3px solid;
+    display: inline-grid;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+.news-img{
+    width:  400px;
+}
